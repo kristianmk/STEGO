@@ -1,4 +1,9 @@
 # STEGO: Unsupervised Semantic Segmentation by Distilling Feature Correspondences
+Fork created for running with podman on Ubuntu 22.04 and Pytorch 22.11.
+
+Install using mamba, not conda as resolving environment could take way too much time!
+
+
 ### [Project Page](https://mhamilton.net/stego.html) | [Paper](https://arxiv.org/abs/2203.08414) | [Video](https://aka.ms/stego-video) | [ICLR 2022](https://iclr.cc/virtual/2022/poster/6068) 
 
 	

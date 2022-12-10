@@ -1,6 +1,6 @@
 output_root: '../'
 model_path: "../saved_models/cocostuff27_vit_base_5.ckpt"
-image_dir: "/datadrive/pytorch-data/cocostuff/images/val2017"
+image_dir: "/home/drone/projects/pytorch-data/cocostuff/images/val2017"
 experiment_name: "cocostuff_val"
 res: 320
 batch_size: 8
